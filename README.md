@@ -4,6 +4,8 @@
 
 **AI Product| Data Science | Digital Health**
 
+> *"Building Fun Projects with AI"*
+
 [![GitHub](https://img.shields.io/badge/GitHub-Wenji974-181717?style=flat&logo=github)](https://github.com/Wenji974)
 
 </div>
@@ -27,11 +29,6 @@ If you're also interested, feel free to reach out!
 ---
 
 ## 💬 Contact Me
-
-<div align="center">
   
 📍 上海 | 📧 wenjinli1997@163.com | Bilibili(木子七月瑾)
 
-> *"Building Fun Projects with AI"*
-
-</div>
