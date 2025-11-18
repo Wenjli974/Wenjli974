@@ -14,13 +14,15 @@
 
 Exploring new things, Keep curiosity alive
 
-Graduated from ETH Zurich and SJTU (Also a content creator, sharing advice on studying in Switzerland—feel free to check it out if you're interested!).
+Graduated from ETH Zurich and SJTU with degrees in Food Science (Direction - Statistics in Nutrition) 
 
 Worked in AI product roles at multinational corporations and internet companies, and I've also done data engineering at a startup (seems like I’ve always been crossing boundaries, haha ;)
 
 Currently, I'm brainstorming projects that combine Nutrition + AI + data. 
 
 If you're also interested, feel free to reach out!
+
+(✨ Used to be a content creator, sharing advice on studying in Switzerland—feel free to check it out if you're interested! ✨)
 
 ---
 
