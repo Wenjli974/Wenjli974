@@ -27,9 +27,10 @@ If you're also interested, feel free to reach out!
 ---
 
 ## 💬 Contact Me
-📍 上海 | 📧 wenjinli1997@163.com | Bilibili(木子七月瑾)
 
 <div align="center">
+  
+📍 上海 | 📧 wenjinli1997@163.com | Bilibili(木子七月瑾)
 
 > *"Building Fun Projects with AI"*
 
