@@ -16,7 +16,7 @@ Exploring new things, Keep curiosity alive
 
 Graduated from ETH Zurich and SJTU with degrees in Food Science (Direction - Statistics in Nutrition) 
 
-Worked in AI product roles at multinational corporations and internet companies, and I've also done data engineering at a startup (seems like I’ve always been crossing boundaries, haha ;)
+Working as an AI product manager at multinational corporations and internet companies, and I've also done data engineering at a startup (seems like I’ve always been crossing boundaries, haha ;)
 
 Currently, I'm brainstorming projects that combine Nutrition + AI + data. 
 
